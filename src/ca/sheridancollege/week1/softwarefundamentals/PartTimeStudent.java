@@ -7,6 +7,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
 /**
  *
  * @author HP
+ * got from parttime
  */
 public class PartTimeStudent {
     
