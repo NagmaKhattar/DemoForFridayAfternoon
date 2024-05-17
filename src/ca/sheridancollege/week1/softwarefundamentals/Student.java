@@ -13,7 +13,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * @author dancye May 7, 2018
  * @modifiedby Nagma
  * changing working directory
- * This is change in NetBeans
+ * This is change in NetBeans reflected on GitHub
  */
 public class Student 
 {
