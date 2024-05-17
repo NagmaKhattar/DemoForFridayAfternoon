@@ -12,6 +12,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * 
  * @author dancye May 7, 2018
  * @modifiedby Nagma
+ * changing working directory
  */
 public class Student 
 {
